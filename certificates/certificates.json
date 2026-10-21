@@ -1,0 +1,440 @@
+[
+  {
+    "title": "A1 Seviye İngilizce",
+    "file": "01-a1-seviye-ingilizce.pdf",
+    "category": "Diğer eğitimler",
+    "issuer": "BTK Akademi"
+  },
+  {
+    "title": "A2 Seviye İngilizce",
+    "file": "02-a2-seviye-ingilizce.pdf",
+    "category": "Diğer eğitimler",
+    "issuer": "BTK Akademi"
+  },
+  {
+    "title": "Adobe Illustrator ile Grafik Tasarım",
+    "file": "03-adobe-illustrator-ile-grafik-tasarm.pdf",
+    "category": "Tasarım ve dijital araçlar",
+    "issuer": "BTK Akademi"
+  },
+  {
+    "title": "Adobe Photoshop CC 2023",
+    "file": "04-adobe-photoshop-cc-2023.pdf",
+    "category": "Tasarım ve dijital araçlar",
+    "issuer": "BTK Akademi"
+  },
+  {
+    "title": "AutoCAD ile 2D Tasarımlar",
+    "file": "05-autocad-ile-2d-tasarmlar.pdf",
+    "category": "Tasarım ve dijital araçlar",
+    "issuer": "BTK Akademi"
+  },
+  {
+    "title": "B1 Seviye İngilizce",
+    "file": "06-b1-seviye-ingilizce.pdf",
+    "category": "Diğer eğitimler",
+    "issuer": "BTK Akademi"
+  },
+  {
+    "title": "Bilgi Okuryazarlığı",
+    "file": "07-bilgi-okuryazarlg.pdf",
+    "category": "Diğer eğitimler",
+    "issuer": "BTK Akademi"
+  },
+  {
+    "title": "Bilgi Teknolojilerine Giriş",
+    "file": "08-bilgi-teknolojilerine-giris.pdf",
+    "category": "Yazılım, veri ve yapay zekâ",
+    "issuer": "BTK Akademi"
+  },
+  {
+    "title": "Dijital Okuryazarlık",
+    "file": "09-dijital-okuryazarlk.pdf",
+    "category": "Diğer eğitimler",
+    "issuer": "BTK Akademi"
+  },
+  {
+    "title": "Dijital Okuryazarlık",
+    "file": "10-dijital-okuryazarlk.pdf",
+    "category": "Diğer eğitimler",
+    "issuer": "BTK Akademi"
+  },
+  {
+    "title": "DoS DDos Saldırıları ve Koruma",
+    "file": "11-dos-ddos-saldrlar-ve-koruma.pdf",
+    "category": "Siber güvenlik ve ağ",
+    "issuer": "BTK Akademi"
+  },
+  {
+    "title": "Doğal Dil İşlemeye Giriş",
+    "file": "12-dogal-dil-islemeye-giris.pdf",
+    "category": "Yazılım, veri ve yapay zekâ",
+    "issuer": "BTK Akademi"
+  },
+  {
+    "title": "E-Ticarete Giriş",
+    "file": "13-e-ticarete-giris.pdf",
+    "category": "Diğer eğitimler",
+    "issuer": "BTK Akademi"
+  },
+  {
+    "title": "Ekip Kurma ve Yönetme",
+    "file": "14-ekip-kurma-ve-yonetme.pdf",
+    "category": "İletişim ve kariyer",
+    "issuer": "BTK Akademi"
+  },
+  {
+    "title": "Etkili İletişim Stratejileri",
+    "file": "15-etkili-iletisim-stratejileri.pdf",
+    "category": "Diğer eğitimler",
+    "issuer": "BTK Akademi"
+  },
+  {
+    "title": "Finansal Okuryazarlık",
+    "file": "16-finansal-okuryazarlk.pdf",
+    "category": "Diğer eğitimler",
+    "issuer": "BTK Akademi"
+  },
+  {
+    "title": "Genç Profesyoneller için Kariyeri Tehdit Eden Yaklaşımlar",
+    "file": "17-genc-profesyoneller-icin-kariyeri-tehdit-eden-yaklasmlar.pdf",
+    "category": "İletişim ve kariyer",
+    "issuer": "BTK Akademi"
+  },
+  {
+    "title": "Girişimcilik Temelleri",
+    "file": "18-girisimcilik-temelleri.pdf",
+    "category": "İletişim ve kariyer",
+    "issuer": "BTK Akademi"
+  },
+  {
+    "title": "Google Dijital Ebeveynlik",
+    "file": "19-google-dijital-ebeveynlik.pdf",
+    "category": "Diğer eğitimler",
+    "issuer": "BTK Akademi"
+  },
+  {
+    "title": "Güvenlik Duvarına Giriş",
+    "file": "20-guvenlik-duvarna-giris.pdf",
+    "category": "Siber güvenlik ve ağ",
+    "issuer": "BTK Akademi"
+  },
+  {
+    "title": "İkna Becerileri",
+    "file": "21-ikna-becerileri.pdf",
+    "category": "Diğer eğitimler",
+    "issuer": "BTK Akademi"
+  },
+  {
+    "title": "İletişim ve Network Yönetimi",
+    "file": "22-iletisim-ve-network-yonetimi.pdf",
+    "category": "İletişim ve kariyer",
+    "issuer": "BTK Akademi"
+  },
+  {
+    "title": "İnsan Haklarına Giriş",
+    "file": "23-insan-haklarna-giris.pdf",
+    "category": "Diğer eğitimler",
+    "issuer": "BTK Akademi"
+  },
+  {
+    "title": "İnternet Alan Adları Hukuku",
+    "file": "24-internet-alan-adlar-hukuku.pdf",
+    "category": "Diğer eğitimler",
+    "issuer": "BTK Akademi"
+  },
+  {
+    "title": "İşletim Sistemlerine Giriş",
+    "file": "25-isletim-sistemlerine-giris.pdf",
+    "category": "Diğer eğitimler",
+    "issuer": "BTK Akademi"
+  },
+  {
+    "title": "Kariyerde Hedef Belirleme",
+    "file": "26-kariyerde-hedef-belirleme.pdf",
+    "category": "İletişim ve kariyer",
+    "issuer": "BTK Akademi"
+  },
+  {
+    "title": "Kariyeri Tehdit Eden Yaklaşımlar",
+    "file": "27-kariyeri-tehdit-eden-yaklasmlar.pdf",
+    "category": "İletişim ve kariyer",
+    "issuer": "BTK Akademi"
+  },
+  {
+    "title": "Kültür Okuryazarlığı",
+    "file": "28-kultur-okuryazarlg.pdf",
+    "category": "Diğer eğitimler",
+    "issuer": "BTK Akademi"
+  },
+  {
+    "title": "LinkedIn'de Etkili Profil Oluşturma",
+    "file": "29-linkedin-de-etkili-profil-olusturma.pdf",
+    "category": "Diğer eğitimler",
+    "issuer": "BTK Akademi"
+  },
+  {
+    "title": "Markaların Korunması",
+    "file": "30-markalarn-korunmas.pdf",
+    "category": "Diğer eğitimler",
+    "issuer": "BTK Akademi"
+  },
+  {
+    "title": "Matematik 101",
+    "file": "31-matematik-101.pdf",
+    "category": "Diğer eğitimler",
+    "issuer": "BTK Akademi"
+  },
+  {
+    "title": "Microsoft 365 Copilot ve Office Uygulamaları",
+    "file": "32-microsoft-365-copilot-ve-office-uygulamalar.pdf",
+    "category": "Diğer eğitimler",
+    "issuer": "BTK Akademi"
+  },
+  {
+    "title": "Microsoft PowerPoint",
+    "file": "33-microsoft-powerpoint.pdf",
+    "category": "Tasarım ve dijital araçlar",
+    "issuer": "BTK Akademi"
+  },
+  {
+    "title": "Microsoft Word Temelleri",
+    "file": "34-microsoft-word-temelleri.pdf",
+    "category": "Tasarım ve dijital araçlar",
+    "issuer": "BTK Akademi"
+  },
+  {
+    "title": "Mobil Güvenlik ve Sızma Teknikleri",
+    "file": "35-mobil-guvenlik-ve-szma-teknikleri.pdf",
+    "category": "Siber güvenlik ve ağ",
+    "issuer": "BTK Akademi"
+  },
+  {
+    "title": "Mülakat Teknikleri",
+    "file": "36-mulakat-teknikleri.pdf",
+    "category": "İletişim ve kariyer",
+    "issuer": "BTK Akademi"
+  },
+  {
+    "title": "Oyun Pazarlama Temelleri",
+    "file": "37-oyun-pazarlama-temelleri.pdf",
+    "category": "Tasarım ve dijital araçlar",
+    "issuer": "BTK Akademi"
+  },
+  {
+    "title": "Pardus Arayüz Kullanımı",
+    "file": "38-pardus-arayuz-kullanm.pdf",
+    "category": "Sistemler ve donanım",
+    "issuer": "BTK Akademi"
+  },
+  {
+    "title": "Patent ve Faydalı Modellerin Korunması",
+    "file": "39-patent-ve-faydal-modellerin-korunmas.pdf",
+    "category": "Diğer eğitimler",
+    "issuer": "BTK Akademi"
+  },
+  {
+    "title": "Proje Yönetim Temelleri",
+    "file": "40-proje-yonetim-temelleri.pdf",
+    "category": "Diğer eğitimler",
+    "issuer": "BTK Akademi"
+  },
+  {
+    "title": "Prompt Mühendisliği",
+    "file": "41-prompt-muhendisligi.pdf",
+    "category": "Yazılım, veri ve yapay zekâ",
+    "issuer": "BTK Akademi"
+  },
+  {
+    "title": "R ile Veri Bilimine Giriş",
+    "file": "42-r-ile-veri-bilimine-giris.pdf",
+    "category": "Yazılım, veri ve yapay zekâ",
+    "issuer": "BTK Akademi"
+  },
+  {
+    "title": "siber guvenlik",
+    "file": "43-siber-guvenlik.pdf",
+    "category": "Siber güvenlik ve ağ",
+    "issuer": "BTK Akademi"
+  },
+  {
+    "title": "Siber Güvenlik",
+    "file": "44-siber-guvenlik.pdf",
+    "category": "Siber güvenlik ve ağ",
+    "issuer": "BTK Akademi"
+  },
+  {
+    "title": "Siber Güvenlikte Linux İşletim Sistemleri",
+    "file": "45-siber-guvenlikte-linux-isletim-sistemleri.pdf",
+    "category": "Siber güvenlik ve ağ",
+    "issuer": "BTK Akademi"
+  },
+  {
+    "title": "Siber Güvenliğe Giriş",
+    "file": "46-siber-guvenlige-giris.pdf",
+    "category": "Siber güvenlik ve ağ",
+    "issuer": "BTK Akademi"
+  },
+  {
+    "title": "SIEM Temelleri",
+    "file": "47-siem-temelleri.pdf",
+    "category": "Siber güvenlik ve ağ",
+    "issuer": "BTK Akademi"
+  },
+  {
+    "title": "SketchUp Pro 2022 ile Mimari Modelleme",
+    "file": "48-sketchup-pro-2022-ile-mimari-modelleme.pdf",
+    "category": "Tasarım ve dijital araçlar",
+    "issuer": "BTK Akademi"
+  },
+  {
+    "title": "Sosyal Medya Reklamcılığı ve Performans Analitiği",
+    "file": "49-sosyal-medya-reklamclg-ve-performans-analitigi.pdf",
+    "category": "Tasarım ve dijital araçlar",
+    "issuer": "BTK Akademi"
+  },
+  {
+    "title": "Sosyal Medya Uzmanlığına Giriş",
+    "file": "50-sosyal-medya-uzmanlgna-giris.pdf",
+    "category": "Tasarım ve dijital araçlar",
+    "issuer": "BTK Akademi"
+  },
+  {
+    "title": "Sosyal Medyada İçerik Üretim Süreci Hikâye Anlatıcılığı ve Görsel Dil",
+    "file": "51-sosyal-medyada-icerik-uretim-sureci-hikaye-anlatclg-ve-gorsel-dil.pdf",
+    "category": "Tasarım ve dijital araçlar",
+    "issuer": "BTK Akademi"
+  },
+  {
+    "title": "Sosyal Mühendislik ve Oltalama",
+    "file": "52-sosyal-muhendislik-ve-oltalama.pdf",
+    "category": "Siber güvenlik ve ağ",
+    "issuer": "BTK Akademi"
+  },
+  {
+    "title": "Stresle Başa Çıkma ve Bilinçli Farkındalık",
+    "file": "53-stresle-basa-ckma-ve-bilincli-farkndalk.pdf",
+    "category": "İletişim ve kariyer",
+    "issuer": "BTK Akademi"
+  },
+  {
+    "title": "Sözleşme Yönetimi Hukuku",
+    "file": "54-sozlesme-yonetimi-hukuku.pdf",
+    "category": "Diğer eğitimler",
+    "issuer": "BTK Akademi"
+  },
+  {
+    "title": "Tasarımların Korunması",
+    "file": "55-tasarmlarn-korunmas.pdf",
+    "category": "Diğer eğitimler",
+    "issuer": "BTK Akademi"
+  },
+  {
+    "title": "Temel Ağ Teknolojileri",
+    "file": "56-temel-ag-teknolojileri.pdf",
+    "category": "Siber güvenlik ve ağ",
+    "issuer": "BTK Akademi"
+  },
+  {
+    "title": "Temel Elektronik",
+    "file": "57-temel-elektronik.pdf",
+    "category": "Sistemler ve donanım",
+    "issuer": "BTK Akademi"
+  },
+  {
+    "title": "Temel Elektronik ve Robotiğe Giriş",
+    "file": "58-temel-elektronik-ve-robotige-giris.pdf",
+    "category": "Sistemler ve donanım",
+    "issuer": "BTK Akademi"
+  },
+  {
+    "title": "Temel Kriptografi",
+    "file": "59-temel-kriptografi.pdf",
+    "category": "Siber güvenlik ve ağ",
+    "issuer": "BTK Akademi"
+  },
+  {
+    "title": "Topluluk Önünde Konuşma ve Etkili Sunum Teknikleri",
+    "file": "60-topluluk-onunde-konusma-ve-etkili-sunum-teknikleri.pdf",
+    "category": "İletişim ve kariyer",
+    "issuer": "BTK Akademi"
+  },
+  {
+    "title": "Uygulamalı Canva",
+    "file": "61-uygulamal-canva.pdf",
+    "category": "Tasarım ve dijital araçlar",
+    "issuer": "BTK Akademi"
+  },
+  {
+    "title": "Uzaktan Erişim Araçları",
+    "file": "62-uzaktan-erisim-araclar.pdf",
+    "category": "Siber güvenlik ve ağ",
+    "issuer": "BTK Akademi"
+  },
+  {
+    "title": "Vatandaşlık Okuryazarlığı",
+    "file": "63-vatandaslk-okuryazarlg.pdf",
+    "category": "Diğer eğitimler",
+    "issuer": "BTK Akademi"
+  },
+  {
+    "title": "Veri Bilimi için Temel İstatistik",
+    "file": "64-veri-bilimi-icin-temel-istatistik.pdf",
+    "category": "Yazılım, veri ve yapay zekâ",
+    "issuer": "BTK Akademi"
+  },
+  {
+    "title": "Veri Bilimine Giriş",
+    "file": "65-veri-bilimine-giris.pdf",
+    "category": "Yazılım, veri ve yapay zekâ",
+    "issuer": "BTK Akademi"
+  },
+  {
+    "title": "Versiyon Kontrolleri Git ve GitHub",
+    "file": "66-versiyon-kontrolleri-git-ve-github.pdf",
+    "category": "Yazılım, veri ve yapay zekâ",
+    "issuer": "BTK Akademi"
+  },
+  {
+    "title": "Web Sitesi Kullanılabilirliği",
+    "file": "67-web-sitesi-kullanlabilirligi.pdf",
+    "category": "Tasarım ve dijital araçlar",
+    "issuer": "BTK Akademi"
+  },
+  {
+    "title": "Windows 10 İşletim Sistemi",
+    "file": "68-windows-10-isletim-sistemi.pdf",
+    "category": "Sistemler ve donanım",
+    "issuer": "BTK Akademi"
+  },
+  {
+    "title": "Windows İşletim Sistemleri Güvenliği",
+    "file": "69-windows-isletim-sistemleri-guvenligi.pdf",
+    "category": "Sistemler ve donanım",
+    "issuer": "BTK Akademi"
+  },
+  {
+    "title": "Yapay Zeka ve Algoritmalarına Giriş",
+    "file": "70-yapay-zeka-ve-algoritmalarna-giris.pdf",
+    "category": "Yazılım, veri ve yapay zekâ",
+    "issuer": "BTK Akademi"
+  },
+  {
+    "title": "Yapay Zekâ Destekli ASP.NET Core Web Uygulamaları Geliştirme Kariyer Atölyesi",
+    "file": "71-yapay-zeka-destekli-asp-net-core-web-uygulamalar-gelistirme-kariyer-atolyesi.pdf",
+    "category": "Yazılım, veri ve yapay zekâ",
+    "issuer": "BTK Akademi"
+  },
+  {
+    "title": "Yazılım Testine Giriş",
+    "file": "72-yazlm-testine-giris.pdf",
+    "category": "Yazılım, veri ve yapay zekâ",
+    "issuer": "BTK Akademi"
+  },
+  {
+    "title": "Şirket Değerleme ve Yatırım Süreçleri",
+    "file": "73-sirket-degerleme-ve-yatrm-surecleri.pdf",
+    "category": "Diğer eğitimler",
+    "issuer": "BTK Akademi"
+  }
+]
